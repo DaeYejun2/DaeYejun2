@@ -1,5 +1,5 @@
+# 👋
 <div align="center">
-  <img src="./images/profile-animation.gif" width="500" />
 </div>
 
 ---
