@@ -1,4 +1,4 @@
-# 안녕하세요, 예준입니다 👋
+# 👋
 
 > Data Analysis | AI Agent | Security | Cloud 관심 개발자
 
