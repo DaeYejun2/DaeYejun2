@@ -21,8 +21,8 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
 
 ### Areas of Interest
 - 🔐 Security & Cloud
@@ -31,29 +31,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![DaeYejun2's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeYejun2&theme=nord&show_icons=true)
-
----
-
-## 📌 Recent Projects
-
-- **OSS-Project1** - Public repository
-- **bluemoon5555/OSS-project_team3** - Team collaboration project
-
----
-
-## 🔗 Connect with Me
-
-- 📝 [Tech Blog](https://yejun2.tistory.com/)
-- 📧 Email: myj6873@gmail.com
-- 🎓 Soongsil University
-
----
-
-<div align="center">
-
-**⭐ 프로젝트가 도움이 되셨다면 별 한 개 부탁드립니다!**
 
 </div>
