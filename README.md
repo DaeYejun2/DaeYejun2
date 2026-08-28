@@ -14,7 +14,7 @@
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=pytorch&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-2E8B57?style=flat-square&logo=linux&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-000000?style=flat-square&logo=github&logoColor=black)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-000000?style=flat-square&logo=github&logoColor=white)
  
 ---
 
