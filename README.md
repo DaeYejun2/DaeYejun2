@@ -1,6 +1,6 @@
 # 👋
 
-> Data Analysis | AI Agent | Security | Cloud | Problem Solving
+> Data Analysis | AI Agent | Security | Cloud | Problem Solving | Machine Learning
 
 <div align="center">
 
