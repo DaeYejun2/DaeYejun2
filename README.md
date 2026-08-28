@@ -1,11 +1,9 @@
 # 👋
 
-> Data Analysis | AI Agent | Security | Cloud 관심 개발자
+> Data Analysis | AI Agent | Security | Cloud | Problem Solving
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/DaeYejun2?style=social)](https://github.com/DaeYejun2)
-[![GitHub Stars](https://img.shields.io/github/stars/DaeYejun2?style=social)](https://github.com/DaeYejun2)
 
 </div>
 
